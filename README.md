@@ -26,6 +26,7 @@
   <h3><i>Building, Training & Evaluating a Neural Network from Scratch using PyTorch</i></h3>
   
   <h4><code>Assignment 02 — Deep Learning Essentials</code></h4>
+  <h2><b>University of Pennsylvania</b></h2>
 
   <br><br>
 
